@@ -1,2 +1,7 @@
 venv
 openmc
+**/__pycache__
+results
+
+# Data directories
+endfb-vii.1-hdf5
